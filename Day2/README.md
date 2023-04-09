@@ -23,7 +23,7 @@ The first line contains a single integer, , the number of integers in the array.
 The second line contains  space-separated integers that describe the values in .
 
 
-``` diagnolDifference ``` <br>
+``` diagnolDifference.py``` <br>
 
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
